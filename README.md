@@ -1,6 +1,10 @@
 RedBot
 ======
 
+**Note: This is a dead library, and will not be updated. Please check out the tutorial [here](https://learn.sparkfun.com/tutorials/redbot-sensor---wheel-encoder) for more information about using the optical encoder
+with the RedBot.**
+
+
 [![RedBot Mainboard](https://dlnmh9ip6v2uc.cloudfront.net/images/products/1/1/6/2/2/11622-01a_medium.jpg)  
 *RedBot Mainboard*](https://www.sparkfun.com/products/11622)
 
